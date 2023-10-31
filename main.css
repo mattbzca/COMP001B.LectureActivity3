@@ -1,0 +1,28 @@
+#nav-list ul {
+    list-style-type: none;
+    padding: 1em 0;
+}
+#nav-list ul li {
+    display: inline;
+    padding: 0 1.5em;
+}
+nav {
+    float: left;
+    width: 50%;
+}
+main {
+    float: left;
+    width: 25%;
+}
+aside {
+    float: left;
+    width: 25%;
+}
+img {
+    width: 90%;
+}
+footer {
+    font-size: 90%;
+    clear: both;
+    position: relative;
+}
